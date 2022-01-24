@@ -1,0 +1,38 @@
+_repo: Return-to-Gone-Away_67199
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Krush, Joe
+    gutenberg_agent_id: '54153'
+    url: http://www.gutenberg.org/2009/agents/54153
+  - agent_name: Krush, Beth
+    gutenberg_agent_id: '54152'
+    url: http://www.gutenberg.org/2009/agents/54152
+creator:
+  author:
+    agent_name: Enright, Elizabeth
+    alias: Gillham, Elizabeth Wright Enright
+    birthdate: 1909
+    deathdate: 1968
+    gutenberg_agent_id: '54098'
+    url: http://www.gutenberg.org/2009/agents/54098
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Enright
+description: ''
+gutenberg_issued: '2022-01-19'
+identifiers:
+  gutenberg: '67199'
+language: en
+pgterms:marc905: 20211123035053enright
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United States :Harcourt, Brace & World, Inc.,1961.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Return to Gone-Away
+url: http://www.gutenberg.org/ebooks/67199
