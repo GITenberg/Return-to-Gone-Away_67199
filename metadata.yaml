@@ -8,6 +8,9 @@ contributor:
   - agent_name: Krush, Beth
     gutenberg_agent_id: '54152'
     url: http://www.gutenberg.org/2009/agents/54152
+covers:
+- cover_type: archival
+  image_path: 67199-h/images/cover.jpg
 creator:
   author:
     agent_name: Enright, Elizabeth
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54098
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Enright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67199#Return-to-Gone-Away
 gutenberg_issued: '2022-01-19'
 identifiers:
   gutenberg: '67199'
